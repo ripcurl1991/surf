@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://ripcurl1991.github.io/surf/
